@@ -49,4 +49,6 @@ export default [
   generateNavLinks('Footer Menü', '', 'footer-menus'),
   generateNavLinks('Footer Menü Öğe', '', 'footer-menu-items'),
   generateNavLinks('Hizmet', 'ler', 'services'),
+  generateNavLinks('Menu', 'ler', ''),
+
 ]
